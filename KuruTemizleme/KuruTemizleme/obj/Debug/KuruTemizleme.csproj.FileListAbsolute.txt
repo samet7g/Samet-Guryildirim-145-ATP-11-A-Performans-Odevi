@@ -1,0 +1,13 @@
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\bin\Debug\KuruTemizleme.exe.config
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\bin\Debug\KuruTemizleme.exe
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\bin\Debug\KuruTemizleme.pdb
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.csprojAssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.DurumKayıt.resources
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.UrunKayıt.resources
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.UrunlerKayıt.resources
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.exe
+C:\Users\samet\OneDrive\Masaüstü\Performans\KuruTemizleme\KuruTemizleme\obj\Debug\KuruTemizleme.pdb
